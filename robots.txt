@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mr-bwnz.github.io/sitemap.xml
